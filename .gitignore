@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \#*\#
 *~
 TAGS
@@ -9,3 +10,21 @@ tmp/
 # bundler state
 /.bundle
 /vendor/bundle/
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> e35e476006ca710839d0bca9f936b5d7968ddca8
